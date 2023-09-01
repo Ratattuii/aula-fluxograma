@@ -1,0 +1,18 @@
+Lampada
+1 - verifique se a lampada está queimada
+2 - se a lampada estiver queimada:
+3 - pegue uma lampada nova
+4 - pegue uma escada
+5 - suba na escada
+6 - troque a lampada
+7 - senão:
+8 - não troque a lampada
+
+Senac
+1 - sair da aula
+2 - ir almoçar
+3 - me servir
+4 - comer
+5 - pagar o almoço
+6 - descansar no banco
+7 - vir pra aula
